@@ -10,7 +10,7 @@
 
 ---
 
-# 🔍 Exploratory Data Analysis
+# 🔍 Exploratory Data Analysis (EDA)
 
 <img width="440" height="300" alt="image" src="https://github.com/user-attachments/assets/2570b56c-be4b-45d0-a799-698b7159bd6e" />
 <img width="440" height="300" alt="image" src="https://github.com/user-attachments/assets/b2d18f20-a94b-4b35-afb5-0c1634693bc6" />
@@ -27,6 +27,6 @@
 
 ---
 
-# Results
+# Result
 
 <img width="703" height="562" alt="image" src="https://github.com/user-attachments/assets/4cb1ba84-92d7-42ab-b19f-6887b949d18a" />
