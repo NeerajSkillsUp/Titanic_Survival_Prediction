@@ -27,6 +27,6 @@
 
 ---
 
-# Results
+# Result
 
 <img width="703" height="562" alt="image" src="https://github.com/user-attachments/assets/4cb1ba84-92d7-42ab-b19f-6887b949d18a" />
